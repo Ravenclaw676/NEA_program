@@ -1,0 +1,74 @@
+weapon + statline + keywords
+([A-Z][a-z\-– ]+)( |\n)(\[[A-Z1-6 \-\+,]+\])*( |)([0-9]+\"|Melee) ([0-9+*\-Dd N\/A]+)
+
+Test data:
+Combi-weapon 
+[ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]24" 1 3+ 4 0 1
+Storm bolter [RAPID FIRE 2] 24" 2 2+ 4 0 1
+Chainfist [ANTI-VEHICLE 3+] Melee 1d3 3+ 8 -2 2d6
+Power fist Melee 5 2+ 8 -2 2
+Relic weapon Melee 6 2+ 5 -2 2
+Thunder hammer [DEVASTATING WOUNDS] Melee 5 3+ 8 -2 2
+Twin lightning claws [TWIN-LINKED] Melee 7 2+ 5 -2 1
+Assault cannon [DEVASTATING WOUNDS] 24" 6 3+ 6 0 1
+Cyclone missile launcher – frag [BLAST] 36" 2D6 3+ 4 0 1
+Cyclone missile launcher – krak 36" 2 3+ 9 -2 D6
+Heavy flamer [IGNORES COVER, TORRENT] 12" D6 N/A 5 -1 1
+Storm bolter [RAPID FIRE 2] 24" 2 3+ 4 0 1
+Chainfist [ANTI-VEHICLE 3+] Melee 3 4+ 8 -2 2
+
+test data 2:
+LAND SPEEDER STORM
+KEYWORDS:   Vehicle, Fly, Transport, Dedicated Transport, Imperium,
+Land Speeder StormRANGED WEAPONS RANGE A BS S AP D
+Cerberus launcher [BLAST] 18" D6+3 3+ 4 0 1
+Heavy bolter [SUSTAINED HITS 1] 36" 3 3+ 5 -1 2
+MELEE WEAPONS RANGE A WS S AP D
+Close combat weapon Melee 3 3+ 4 0 1
+FACTION KEYWORDS:
+Adeptus AstartesABILITIES
+CORE: Deadly Demise 1, Firing Deck 6
+FACTION: Oath of Moment
+Storm Assault: Each time a unit disembarks from this model
+after it has made a Normal move, that unit is still eligible to
+declare a charge this turn.M T SV W LD OC
+14" 7 4+ 7 6+ 1
+
+
+STORMHAWK INTERCEPTOR
+KEYWORDS:  Vehicle, Fly, Aircraft, Imperium, Smoke, Stormhawk InterceptorRANGED WEAPONS RANGE A BS S AP D
+FACTION KEYWORDS:
+Adeptus AstartesABILITIES
+CORE: Deadly Demise D3, Hover
+FACTION: Oath of Moment
+Interceptor: Each time this model makes a ranged attack that
+targets a unit that can Fly , add 1 to the Hit roll.
+ Before selecting targets for this weapon, select one of its profiles to make attacks with.T SV W LD OC
+9 3+ 10 6+ 0 20+"M
+
+WARGEAR OPTIONS
+ ■  This model’s skyhammer missile launcher can be replaced with one of the following:
+ ◦1 twin heavy bolter
+ ◦1 typhoon missile launcher
+ ■ This model’s las-talon can be replaced with 1 Icarus stormcannon.UNIT COMPOSITION
+ ■1 Stormhawk Interceptor
+This model is equipped with: twin assault cannon;
+skyhammer missile launcher; las-talon; armoured hull.STORMHAWK INTERCEPTOR
+Stormhawk Interceptors are high-altitude fighter craft designed solely
+for achieving aerial supremacy. Dropped from mag-cradles aboard
+orbiting craft, these ceramite-plated vehicles engage enemy air assets
+in brutal dogfights and are protected by countermeasures that launch
+blazing flares.
+KEYWORDS:  Vehicle, Fly, Aircraft, Imperium, Smoke, Stormhawk InterceptorFACTION KEYWORDS:
+Adeptus Astartes
+
+leader test data:
+
+LEADER
+This model can be attached to the following units:
+ ■Assault Intercessor Squad
+ ■Bladeguard Veteran Squad*
+ ■Hellblaster Squad*
+ ■Infernus Squad
+ ■Intercessor Squad
+ ■Sternguard Veteran Squad
